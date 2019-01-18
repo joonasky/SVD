@@ -1,0 +1,23 @@
+calculating svd number 0
+svd number 0 complete
+calculating svd number 1
+svd number 1 complete
+calculating svd number 2
+svd number 2 complete
+calculating svd number 3
+svd number 3 complete
+calculating svd number 4
+svd number 4 complete
+calculating svd number 5
+svd number 5 complete
+calculating svd number 6
+svd number 6 complete
+calculating svd number 7
+svd number 7 complete
+calculating svd number 8
+svd number 8 complete
+calculating svd number 9
+svd number 9 complete
+which digit you want to try to recognise?2
+for number 2 the number 2 has the smallest residual: 505.787469
+
